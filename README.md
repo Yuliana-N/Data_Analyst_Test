@@ -1,4 +1,4 @@
-Использовалась БД Postgres
+Использовалась БД PostgreSQL
 
 У вас SQL база с таблицами:
 1) Users(userId, age)
